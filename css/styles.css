@@ -793,6 +793,7 @@ body.light-theme{
                 justify-content: center;
          }
          .work__img{
+                height: 150px;
                 width: 295px;
          }
          .contact__info{
@@ -974,6 +975,7 @@ body.light-theme{
                 padding: 1.25rem;
         }
         .work__img{
+                height: 150px;
                 margin-bottom: 1rem;
         }
         .work__title{
