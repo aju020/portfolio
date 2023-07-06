@@ -503,6 +503,7 @@ body.light-theme{
         margin-bottom: 2rem;
 }
 .services__modal-list{
+        margin-top: 1em;
         display: grid;
         row-gap: .75rem;
 }
